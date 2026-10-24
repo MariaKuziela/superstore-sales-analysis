@@ -36,7 +36,7 @@ Python, pandas, matplotlib, Jupyter Notebook, kagglehub
 ## How to run
 1. Clone the repository and go to its folder:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/MariaKuziela/superstore-sales-analysis>
    cd superstore-sales-analysis
    ```
 2. Install the dependencies:
