@@ -29,6 +29,8 @@ Analysis of Superstore sales to find what drives profit and losses. The project 
 **Sales by month, per year**
 
 ![Sales by month, per year](images/sales_by_month.png)
+![Sales by month, per year](images/monthly_sales.png)
+
 
 ## Tools
 Python, pandas, matplotlib, Jupyter Notebook, kagglehub
